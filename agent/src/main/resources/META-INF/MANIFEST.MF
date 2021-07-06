@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+premain-class: com.cullenye.javaagent.agent.AgentApp
+agentmain-class: AgentApp
