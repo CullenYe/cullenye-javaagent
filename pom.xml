@@ -19,6 +19,7 @@
         <module>app</module>
         <module>demo</module>
         <module>userbtrace</module>
+        <module>attach</module>
     </modules>
 
     <build>
